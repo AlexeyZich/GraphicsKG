@@ -1,0 +1,40 @@
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\bin\Debug\GraphicModern.exe.config
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\bin\Debug\GraphicModern.exe
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\bin\Debug\GraphicModern.pdb
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\obj\Debug\GraphicModern.csprojResolveAssemblyReference.cache
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\obj\Debug\GraphicModern.Properties.Resources.resources
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\obj\Debug\GraphicModern.csproj.GenerateResource.Cache
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\obj\Debug\GraphicModern.exe
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\obj\Debug\GraphicModern.pdb
+c:\users\владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\obj\Debug\GraphicModern.MainForm.resources
+C:\Users\Владимир\documents\visual studio 2013\Projects\GraphicModern\GraphicModern\obj\Debug\GraphicModern.AnimationForm.resources
+F:\писька\GraphicModern\GraphicModern\bin\Debug\GraphicModern.exe.config
+F:\писька\GraphicModern\GraphicModern\obj\Debug\GraphicModern.exe
+F:\писька\GraphicModern\GraphicModern\obj\Debug\GraphicModern.pdb
+F:\писька\GraphicModern\GraphicModern\bin\Debug\GraphicModern.exe
+F:\писька\GraphicModern\GraphicModern\bin\Debug\GraphicModern.pdb
+F:\писька\GraphicModern\GraphicModern\obj\Debug\GraphicModern.csprojResolveAssemblyReference.cache
+F:\писька\GraphicModern\GraphicModern\obj\Debug\GraphicModern.AnimationForm.resources
+F:\писька\GraphicModern\GraphicModern\obj\Debug\GraphicModern.MainForm.resources
+F:\писька\GraphicModern\GraphicModern\obj\Debug\GraphicModern.Properties.Resources.resources
+F:\писька\GraphicModern\GraphicModern\obj\Debug\GraphicModern.csproj.GenerateResource.Cache
+F:\ДОлг\GraphicModern\GraphicModern\bin\Debug\GraphicModern.exe.config
+F:\ДОлг\GraphicModern\GraphicModern\obj\Debug\GraphicModern.exe
+F:\ДОлг\GraphicModern\GraphicModern\obj\Debug\GraphicModern.pdb
+F:\ДОлг\GraphicModern\GraphicModern\bin\Debug\GraphicModern.exe
+F:\ДОлг\GraphicModern\GraphicModern\bin\Debug\GraphicModern.pdb
+F:\ДОлг\GraphicModern\GraphicModern\obj\Debug\GraphicModern.csprojResolveAssemblyReference.cache
+F:\ДОлг\GraphicModern\GraphicModern\obj\Debug\GraphicModern.AnimationForm.resources
+F:\ДОлг\GraphicModern\GraphicModern\obj\Debug\GraphicModern.MainForm.resources
+F:\ДОлг\GraphicModern\GraphicModern\obj\Debug\GraphicModern.Properties.Resources.resources
+F:\ДОлг\GraphicModern\GraphicModern\obj\Debug\GraphicModern.csproj.GenerateResource.Cache
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\bin\Debug\GraphicModern.exe.config
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\obj\Debug\GraphicModern.exe
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\obj\Debug\GraphicModern.pdb
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\obj\Debug\GraphicModern.csprojResolveAssemblyReference.cache
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\obj\Debug\GraphicModern.AnimationForm.resources
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\obj\Debug\GraphicModern.MainForm.resources
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\obj\Debug\GraphicModern.Properties.Resources.resources
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\obj\Debug\GraphicModern.csproj.GenerateResource.Cache
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\bin\Debug\GraphicModern.exe
+C:\Users\Алёша\Downloads\DOlg\GraphicModern\GraphicModern\bin\Debug\GraphicModern.pdb
